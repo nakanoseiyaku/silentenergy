@@ -1,0 +1,17 @@
+newmtl ml_Soda_Can_Mat
+Ni 2.000
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal soda_can_473ml_v1_A323_A0/473ml_Soda_Can_Normal.png
+map_Kd soda_can_473ml_v1_A323_A0/473ml_Soda_Can_BaseColor.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness soda_can_473ml_v1_A323_A0/473ml_Soda_Can_Roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
